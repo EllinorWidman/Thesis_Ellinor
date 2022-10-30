@@ -17,8 +17,11 @@ node_type:
 # MEMORY_DICT =               {0: 4000,   1: 9500,    2: 7600,    3: 8000}
 
 def main():
+    #Copy the files from the FakeNewsNet dataset to working directory
     get_news_files()
+    #Clean the data and move
     nltk_preparation()
+    #Classify the cleansed data
     classifier()
 
 if __name__ == '__main__':

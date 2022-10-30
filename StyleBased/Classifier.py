@@ -8,7 +8,7 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 def classifier():
-    news_data = load_files(r"/mnt/c/users/EllinorWidman/OneDrive - Tromb/Dokument/Knowledge Graph/C-uppsats/StyleBased/nltk_prep_result/",load_content=True,encoding='utf-8')
+    news_data = load_files(r"my_root_dir/StyleBased/nltk_prep_result/",load_content=True,encoding='utf-8')
     X, y = news_data.data, news_data.target
     documents = []
 

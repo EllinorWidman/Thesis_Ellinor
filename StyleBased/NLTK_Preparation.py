@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 from nltk.stem import WordNetLemmatizer
 import os
 
-news_data = '/mnt/c/users/EllinorWidman/OneDrive - Tromb/Dokument/Knowledge Graph/C-uppsats/StyleBased/Resultat'
-result_root_dir = '/mnt/c/users/EllinorWidman/OneDrive - Tromb/Dokument/Knowledge Graph/C-uppsats/StyleBased/nltk_prep_result'
+news_data = '/my_root_dir/StyleBased/Resultat'
+result_root_dir = '/my_root_dir/StyleBased/nltk_prep_result'
 
 #X, y = news_data.data, news_data.target
 stemmer = WordNetLemmatizer()

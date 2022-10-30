@@ -1,8 +1,7 @@
 import os
 
-rootdir = '/mnt/c/users/EllinorWidman/FakeNewsNet/code/fakenewsnet_dataset'
-result_root_dir = '/mnt/c/users/EllinorWidman/OneDrive - Tromb/Dokument/Knowledge Graph/C-uppsats/StyleBased/Resultat'
-#rootdir = 'C:\\Users\\HP\\Documents\\Skola\\C-uppsats\\FakeNewsNet\\code\\testdir'
+rootdir = 'my_root_dir/FakeNewsNet/code/fakenewsnet_dataset'
+result_root_dir = 'my_root_dir/StyleBased/Resultat'
 
 def get_news_files():
 	print(rootdir)
