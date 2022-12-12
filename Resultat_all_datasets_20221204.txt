@@ -1,0 +1,135 @@
+name: FakeNewsNet
+FakeNewsNet
+data/FakeNewsNet/result_nltk_prep
+[[ 441  578]
+ [  46 3263]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.43      0.59      1019
+           1       0.85      0.99      0.91      3309
+
+    accuracy                           0.86      4328
+   macro avg       0.88      0.71      0.75      4328
+weighted avg       0.86      0.86      0.84      4328
+
+0.8558225508317929
+[[ 441  578]
+ [  46 3263]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.43      0.59      1019
+           1       0.85      0.99      0.91      3309
+
+    accuracy                           0.86      4328
+   macro avg       0.88      0.71      0.75      4328
+weighted avg       0.86      0.86      0.84      4328
+
+0.8558225508317929
+name: ISOT_FakeNewsDataset
+ISOT_FakeNewsDataset
+data/ISOT_FakeNewsDataset/result_nltk_prep
+[[4684    8]
+ [   7 4277]]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      4692
+           1       1.00      1.00      1.00      4284
+
+    accuracy                           1.00      8976
+   macro avg       1.00      1.00      1.00      8976
+weighted avg       1.00      1.00      1.00      8976
+
+0.9983288770053476
+[[4684    8]
+ [   7 4277]]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      4692
+           1       1.00      1.00      1.00      4284
+
+    accuracy                           1.00      8976
+   macro avg       1.00      1.00      1.00      8976
+weighted avg       1.00      1.00      1.00      8976
+
+0.9983288770053476
+name: kaggle_ruchi7798
+kaggle_ruchi7798
+data/kaggle_ruchi7798/result_nltk_prep
+[[242  16]
+ [ 79  72]]
+              precision    recall  f1-score   support
+
+           0       0.75      0.94      0.84       258
+           1       0.82      0.48      0.60       151
+
+    accuracy                           0.77       409
+   macro avg       0.79      0.71      0.72       409
+weighted avg       0.78      0.77      0.75       409
+
+0.7677261613691931
+[[242  16]
+ [ 79  72]]
+              precision    recall  f1-score   support
+
+           0       0.75      0.94      0.84       258
+           1       0.82      0.48      0.60       151
+
+    accuracy                           0.77       409
+   macro avg       0.79      0.71      0.72       409
+weighted avg       0.78      0.77      0.75       409
+
+0.7677261613691931
+name: kaggle_jruvika
+kaggle_jruvika
+data/kaggle_jruvika/result_nltk_prep
+[[430  15]
+ [  0 356]]
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.98       445
+           1       0.96      1.00      0.98       356
+
+    accuracy                           0.98       801
+   macro avg       0.98      0.98      0.98       801
+weighted avg       0.98      0.98      0.98       801
+
+0.9812734082397003
+[[430  15]
+ [  0 356]]
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.98       445
+           1       0.96      1.00      0.98       356
+
+    accuracy                           0.98       801
+   macro avg       0.98      0.98      0.98       801
+weighted avg       0.98      0.98      0.98       801
+
+0.9812734082397003
+name: kaggle_mohamadalhasan
+kaggle_mohamadalhasan
+data/kaggle_mohamadalhasan/result_nltk_prep
+[[30 48]
+ [32 51]]
+              precision    recall  f1-score   support
+
+           0       0.48      0.38      0.43        78
+           1       0.52      0.61      0.56        83
+
+    accuracy                           0.50       161
+   macro avg       0.50      0.50      0.49       161
+weighted avg       0.50      0.50      0.50       161
+
+0.5031055900621118
+[[30 48]
+ [32 51]]
+              precision    recall  f1-score   support
+
+           0       0.48      0.38      0.43        78
+           1       0.52      0.61      0.56        83
+
+    accuracy                           0.50       161
+   macro avg       0.50      0.50      0.49       161
+weighted avg       0.50      0.50      0.50       161
+
+0.5031055900621118
