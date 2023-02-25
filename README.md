@@ -29,5 +29,6 @@ trainer 0.0.16
 
 # Run
 
-python3 main.py 
+ 
 ```
+python3 main.py
