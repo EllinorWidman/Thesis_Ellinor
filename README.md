@@ -1,6 +1,6 @@
 # Thesis_Ellinor
 
-Based on news data that is labeled fake and real it will produce a style based classification and a matrix with  precision, recall and f1-score. Part 1 of my thesis "#FakeNews- Validering av sanningshalten i nyhetsströmmar"
+Based on news data that is labeled fake and real it will produce a style based classification and a matrix with  precision, recall and f1-score. Part of my thesis "#FakeNews- Validering av sanningshalten i nyhetsströmmar"
 
 Make sure the following files are present as per the directory structure before running the code,
 
